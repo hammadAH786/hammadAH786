@@ -13,22 +13,23 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 </a> </p>
 
-- 🔭 I'm currently working on **HomeServiceBooking is a full-stack MERN learning project for a small home services booking marketplace. **
+- 🔭 I'm currently working on HomeServiceBooking is a full-stack MERN learning project for a small home services booking marketplace. 
 
--  **🌱 I'm currently learning full-stack development (MERN stack) and real-world project building.**
+-  🌱 I'm currently learning full-stack development (MERN stack) and real-world project building.
 
--  **👯 I'm looking to collaborate on frontend and backend projects using React, Node.js, and modern web technologies.**
+-  👯 I'm looking to collaborate on frontend and backend projects using React, Node.js, and modern web technologies.
 
--  **🤝 I'm looking for help with improving my backend development skills and working on real-world full-stack projects.**
+-  🤝 I'm looking for help with improving my backend development skills and working on real-world full-stack projects.
 
-- 💬 Ask me about **Frontend: React, Vite, React Router, Axios, React Hook Form, Tailwind CSS, Recharts, Lucide React
-Backend: Node.js, Express.js, MongoDB, Mongoose, JWT, Multer, express-validator**
+- 💬 Ask me about **FRONTEND: React, Vite, React Router, Axios, React Hook Form, Tailwind CSS, Recharts, Lucide React
 
-- 📫 How to reach me **hammadahmed4236@gmail.com**
+  ./ BACKEND: Node.js, Express.js, MongoDB, Mongoose, JWT, Multer, express-validator
 
-- ⚡ Fun fact **I enjoy building modern web apps and continuously learning new technologies.**
+- 📫 How to reach me hammadahmed4236@gmail.com
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1xNUj9U6VocdvCo1SkD05SMQjk1ox7Dyp/edit](https://docs.google.com/document/d/1xNUj9U6VocdvCo1SkD05SMQjk1ox7Dyp/edit)**
+- ⚡ Fun fact I enjoy building modern web apps and continuously learning new technologies.
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1xNUj9U6VocdvCo1SkD05SMQjk1ox7Dyp/edit](https://docs.google.com/document/d/1xNUj9U6VocdvCo1SkD05SMQjk1ox7Dyp/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
