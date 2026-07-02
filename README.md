@@ -1,4 +1,12 @@
-# Hi 👋, I'm Syed Hammad
+<h1 align="center">
+  <div align="center">
+    <img alt="dsmark" height="37px" width="40px"
+      src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif">
+    Hi 👋, I'm Syed Hammad
+    <img alt="Hola" height="30px" width="40px"
+      src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png">
+  </div>
+</h1>
 
 ### MERN STACK DEVELOPER
 
@@ -7,11 +15,11 @@
 
 - 🔭 I'm currently working on **HomeServiceBooking is a full-stack MERN learning project for a small home services booking marketplace. **
 
-- 🌱 I'm currently learning **🌱 I'm currently learning full-stack development (MERN stack) and real-world project building.**
+-  **🌱 I'm currently learning full-stack development (MERN stack) and real-world project building.**
 
-- 👯 I'm looking to collaborate on **🤝 I'm looking to collaborate on frontend and backend projects using React, Node.js, and modern web technologies.**
+-  **👯 I'm looking to collaborate on frontend and backend projects using React, Node.js, and modern web technologies.**
 
-- 🤝 I'm looking for help with **🤝 I'm looking for help with improving my backend development skills and working on real-world full-stack projects.**
+-  **🤝 I'm looking for help with improving my backend development skills and working on real-world full-stack projects.**
 
 - 💬 Ask me about **Frontend: React, Vite, React Router, Axios, React Hook Form, Tailwind CSS, Recharts, Lucide React
 Backend: Node.js, Express.js, MongoDB, Mongoose, JWT, Multer, express-validator**
@@ -33,3 +41,10 @@ Backend: Node.js, Express.js, MongoDB, Mongoose, JWT, Multer, express-validator*
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadAH786&" alt="hammadAH786" /></p>
 
+
+<p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello%20I'm%20Hammad;A%20Programmer;Web%20Developer;MERN%20Stack%20Developer;DS%20|%20Algorithms%20|%20OOP&center=true&width=500&height=50">
+</p>
